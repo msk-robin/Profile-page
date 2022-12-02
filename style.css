@@ -1,0 +1,98 @@
+/* Add your styles here */
+*{
+    font-size: 20px;
+    line-height: 1.2;
+    max-width: 600;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    padding:0;
+    margin: 0;
+}
+main{
+    background-color: #22223b;
+    background-size: cover;
+    padding: 10vw 2em;
+    display: flex;
+    padding: 60px;
+    justify-content:space-around;
+
+}
+.header_photo,
+main > h1{
+ 
+    text-align: center;
+
+}
+
+.header_text{
+    /* background-color: red; */
+    padding-top:60px
+  
+}
+.ul_links{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+   
+ hr{
+    background-color: #4a4e69;
+    margin-top: 70px;
+    padding-bottom: 5px;
+    border: none;
+    margin-bottom: 10px;
+} 
+button{
+    border: none;
+    background-color: #22223b;
+} 
+/* About */
+
+
+/* footer */
+
+ footer{
+    background-color:#f2e9e4 ;
+    display: flex;
+    justify-content: center;
+    /* height: 70vh; */
+}
+
+.section{
+    width: 600px;
+    height: 300px;
+    /* border: rgba(0, 0, 0);
+    border-style: solid; */
+    padding-left: 30px;
+
+}
+.ab{
+    width: 20px;
+    height: auto;
+    /* border: rgb(201, 6, 6);
+    border-style: solid; */
+    margin-top:0px;
+
+}
+.cd{
+    width: 250px;
+    height: auto;
+    /* border: rgb(141, 192, 46);
+    border-style: solid; */
+    align-self: center;
+
+}
+.test{
+    height: 20px;
+    /* background-color: aqua; */
+
+}
+.tery{
+    display: flex;
+    margin: 15px;
+    
+}
+#testy{
+    margin: 0;
+    /* width:310px; */
+}
